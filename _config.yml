@@ -22,7 +22,7 @@ repository               : "https://github.com/mcelro4/ethics_fall2025"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Kelijah_Headshot_optimized.jpg"
+  avatar           : "Kelijah_Headshot_optimized.png"
   name             : "Kelijah McElroy" #update
   pronouns         : "He/Him"  
   bio              : "Hola classmates, I am senior CS major, interested in cybersecurity. I like to fly, travel, play hockey, and spend time with family and friends. "
