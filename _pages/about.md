@@ -12,8 +12,7 @@ This page is meant for you to showcase your case study, podcasts, and blog posts
 
 About Me
 ---
-My name is Kelijah McElroy. I’m a Computer Science student in the Mathematics, Statistics, and Computer Science Department(https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my B.S in Computer Sceicne. In my most previous internship I worked with the Idaho National Laboratory under the cybersecurity department. Some of my roles were, developing lessons for cybersecurity summer camps and led hands-on activities involving Raspberry Pi’s, Breadboards, and Circuits. As well as acquiring practical skills in OSINT, Man-in-the-Middle attacks, firmware analysis, Denial of Service, and control system manipulation.
-
+My name is [Kelijah mCeLROY]. I’m a [Computer Science] student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I'm earning my [B.S] in [Computer Sceince]. During my previous internship I worked with the idaho National Laboratory under the cybersecurity department some of my roles included: Developeing lessons for cybersecurity summer camps and led hands-on activities involving Raspberry Pi’s, Breadboards, and Circuits. As well as acquiring practical skills in OSINT, Man-in-the-Middle attacks, firmware analysis, Denial of Service, and control system manipulation.
 Research 
 ---
 What topics are you currently interested in researching, or have already done in your major studies.
