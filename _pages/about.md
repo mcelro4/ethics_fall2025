@@ -18,11 +18,11 @@ Research
 ---
 What topics are you currently interested in researching, or have already done in your major studies.
 
-Topics I am currently interested are cybersecurity and Data analytics. 
+Topics I am currently interested in are cybersecurity and Data analytics. 
 
 What topics are you interested in learning about regarding ethics.
 
-I am interested in the ethics behind using AI in healthcare and business models/oppertunites. What are the pros and cons of using advanced AI in corperate America, the health industry, and the U.S. Military?
+I am interested in ethics behind using AI in healthcare and business models/oppertunites. What are the pros and cons of using advanced AI in corperate America, health industries, and the U.S. Military?
 
 Personal Life
 ---
