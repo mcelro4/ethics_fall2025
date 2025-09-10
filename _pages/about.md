@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "[Name] Computes Ethics" #update to your name
+title: "[Kelijah] Computes Ethics" #update to your name
 author_profile: true
 redirect_from: 
   - /about/
