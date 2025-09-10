@@ -17,11 +17,16 @@ My name is Kelijah McElroy. I’m a [Computer Science] student in the [Mathemati
 Research 
 ---
 What topics are you currently interested in researching, or have already done in your major studies.
+
+Topics I am currently interested are cybersecurity and Data analytics. 
+
 What topics are you interested in learning about regarding ethics.
+
+I am interested in the ethics behind using AI in healthcare and business models/oppertunites. What are the pros and cons of using advanced AI in corperate America, the health industry, and the U.S. Military?
 
 Personal Life
 ---
-Update to give a little background on you and your interests.
+To give some background on my interest, my mom was a computer scientist who worked for the Air Force and with my previous internship, I was able to see first hand scenarios where cyber analysts and computer sceintist worked together to solve real world problems.
 
 
 For more info on editing this page: configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
