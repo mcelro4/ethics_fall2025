@@ -1,0 +1,32 @@
+---
+title: 'Blog 2: Ethical Frameworks'
+date: 2025-09-21
+permalink: /posts/2025/09/blog-post-2/
+tags:
+  - Falicy
+  - AI
+  - School Protection
+---
+
+AI fails to detect weapons leading to gun violence in schools
+
+**News Article:**  
+[This AI technology was supposed to detect guns in school. Here’s what happened outside Nashville](https://www.cnn.com/2025/02/01/us/ai-gun-detection-software-antioch-school/index.html)
+
+P1: AI is being used to detect weapons in school
+P2: It's almost impossible to stop school shootings from happening
+P3: Surveilance visibilty is highly important for software to activate
+P4: Fale positives are an issue with AI detection
+C: Therefore, many factors lead to school shootings and AI can be used to mitagate violence. 
+
+Rebutal 
+P1 Challenge: Although AI is assisting police departments and school systems with gun detection, there are kinks in AI and software that has failed and led to school shootings being worse than they should have been. 
+P2 Challenge: AI isn't meant to stop school shootings it is used to mitage the damage that can occur by lack of response time from authorites and school officials. 
+P3 Challenge: Surveilance detection is only possible if weapons are in clear view.
+P4 Challenge: With all technology and systems there will be imperfections.
+R: The use of AI has many holes that don't fufill the claims that software experts assure to the public and authorites. 
+
+C2: Using AI tools to identify weapons in school systems can accelerate response times by police authorites and educators. As long as these systems are contiously monitored for errors and upadtes students and educators lives can be protected from mass harm. 
+
+
+
