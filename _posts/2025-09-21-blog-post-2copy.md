@@ -1,5 +1,5 @@
 ---
-title: 'Blog 2: Ethical Frameworks'
+title: 'Blog 1: Ethical Frameworks'
 date: 2025-09-21
 permalink: /posts/2025/09/blog-post-2/
 tags:
