@@ -13,21 +13,21 @@ Are data driven rules taking over? When are they appropriate and when are they n
 **News Article:**  
 [The Right to Be an Exception to a Data-Driven Rule](https://mit-serc.pubpub.org/pub/right-to-be-exception/release/2)
 
-1. What is a data-driven rule, and what does it mean to be a data-driven exception? Is
+1: What is a data-driven rule, and what does it mean to be a data-driven exception? Is
 an exception the same as an error?
 
 A data driven rule is a tool that is used to make consequential decisions. What it means to be a data driven exception is the act where an individual should not be held accountable when they are, through no fault of their own. I think an exception is a flaw not an error. Something that needs to be reconsidered. Flaws aren't always errors.
 
-2. In addition to those listed above, what other factors differentiate data-driven decisions
+2: In addition to those listed above, what other factors differentiate data-driven decisions
 from human ones?
 
 Data driven rules make decisions faster, while humans make decisions slower, i.e. job applications. Modern machine learning makes decisions based on patterns while humans do not. Humans have the capability to have diverse thought processes, one employee may not like a certain application while another employee may notice qualities they like in the candidate.
 
-3. Beyond what is discussed above, what are some of the benefits and downsides of individualization?
+3: Beyond what is discussed above, what are some of the benefits and downsides of individualization?
 
 Benefits of individualization include, tailoring rules to benefit a specific person or group so that the performance is greater. It also appears in large text as well as technical ones. In machine learning individualization is very useful, as many data driven rules are often justified based on their level of independence. However, I think that there are cons to tailored rules. Certain demographics are not considered when rules are too specific. Also privacy concerns are a point of emphasis when associating with individualization.
 
-4. Why is uncertainty so critical to the right to be an exception? When the stakes are
+4: Why is uncertainty so critical to the right to be an exception? When the stakes are
 high (e.g., in criminal sentencing), is there any evaluation metric (e.g., accuracy) that
 can justify the use of a data-driven rule without the consideration of uncertainty?
 
