@@ -10,7 +10,7 @@ tags:
 
 Can Data help the Black Maternal Health Crisis?
 
-**News Article:**  
+**Youtube Video:**  
 [Databite 160: Black Maternal Health is in Crisis. Can Technology Help?](https://youtu.be/8aBZds_FrHM?si=w7fg3Fsl8UazdrUW)
 
 • Who: Who are the speakers? What expertise, background, or perspectives do they
