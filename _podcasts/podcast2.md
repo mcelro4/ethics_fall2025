@@ -1,7 +1,7 @@
 ---
 title: "Podcast 2 ft. Tony Smith"
 collection: podcasts
-permalink: /podcasts/podcast1
+permalink: /podcasts/podcast2
 excerpt: "Podcast 2 featuring Tony Smith: Hallucinations in AI. Are we receiving credible information?
 date: 2025-10-10
 audio: ethics_fall2025/files/ethics_podcast2_kelijah_tony.mp3
