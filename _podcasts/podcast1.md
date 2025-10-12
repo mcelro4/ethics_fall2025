@@ -1,5 +1,5 @@
 ---
-title: "Podcast 1 ft. Tony Smith"
+title: "Podcast 1 ft. Tony Smith!"
 collection: podcasts
 permalink: /podcasts/podcast1
 excerpt: "Podcast 1 featuring Tony Smith: Lets chat about Ethical characters in movies and TV Shows "
