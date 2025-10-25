@@ -42,7 +42,7 @@ This matters to me for two specific reasons. One, I study computer science and I
 
 Open Ended question: 
 
-How can new technology help aleiviate inequalties for black women in maternity?
+How can new technology help alleviate inequalties for black women in maternity?
 
 I chose this question because new ideas are being presented every day on how women can benefit from tech health care. In the video the speakers talk about situations that hold black women back from getting the help they need, whether it's lack of transportation or resources. Black women in maternity are at a disadvantage so providing seminars or help groups for these women could be a big step in advancing knowledge within these individuals so that they know how to navigate their unique journeys with maternity.
 
