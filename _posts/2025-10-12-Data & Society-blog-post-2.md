@@ -1,6 +1,6 @@
 ---
 title: 'Society and Data Blog 2: Data & Society climate and environmental implications of E-Waste'
-date: 2025-12-10
+date: 2025-10-10
 permalink: /posts/2025/10/Data & Society-blog-post-2/
 tags:
   - Mining
