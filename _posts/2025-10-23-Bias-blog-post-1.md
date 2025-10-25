@@ -41,4 +41,11 @@ How can we learn from the history of technology and media to build more responsi
 
 In the article it states "Insights about the politics of cultural technologies, particularly how they functioned in historically exclusionary ways to certain communities, shed light on how generative image technologies may have complicated relationships with communities historically marginalized from canonical, majoritarian representations." We can learn that historically generative image technologies lack inclusivity, so it is a mission to build more representative AI models that mitigate biases. In order to do this, there needs to be a change in leadership at certain companies, without someone in charge that is inclusive and open to new ideas, progress will be slow.
 
-New Question: Task 3. 
+New Question: Task 3.
+Do you think that finding local(counties, states, regions) stats and data then moving to a larger population rather than trying to incorporate multiple demographics at once will mitigate bias and lack of inclusion?
+
+I chose this question because in the "tensions of inclusive generative AI" section of the article the participants mention how LLMs group individuals into one group and that programs opinions from outsiders. An example from P8 mentions how “Growing up, I was always categorized as ... [Indian]. I’m like no, I’m not Indian... No, I’m Bangladeshi. . . we have our own foods, we have our own holidays, we have our own historical events.” This shows that cultural identity can be lost when LLM's and outputs of T21 skew cultural representation.
+
+Reflection:
+
+I enjoyed reading about T21 models and the ways they impact cultural representation. I liked how the article incorporated the tensions of inclusive Gen Ai because it gave me a wider understanding on how solutions to underrepresentation can have its faults. Building from the ground up is emphasized so that individuals have the opportunity to contribute their values and culture into models which then could mitigate bias and strengthen inclusivity.
