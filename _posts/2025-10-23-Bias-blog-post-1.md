@@ -1,5 +1,5 @@
 ---
-title: 'Bias and Fairness 1: Ai Regimes of Representation'
+title: 'Bias and Fairness blog 1: Ai Regimes of Representation'
 date: 2025-10-23
 permalink: /posts/2025/10/Bias and Fairness-blog-post-1/
 tags:
@@ -7,9 +7,6 @@ tags:
   - Fairness
   - AI
 ---
-
-This case study presents a community-centered evaluation of South Asian cultural representations in text-to-image (T2I) models.
-
 **Article:**  
 [AI’s Regimes of Representation: A Community-Centered Study of Text-to-Image Models in South Asia](https://mit-serc.pubpub.org/pub/bfw5tscj/release/3?readingCollection=65a1a268)
 
