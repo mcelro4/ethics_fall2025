@@ -17,53 +17,75 @@ Draft a checklist that people starting new projects could use to try to anticipa
  A checklist that people could use could fall into different sections:
 
 Data collection:
+ 
  Who benefits from this system and who may be harmed?
+ 
  Are there diverse stakeholders so that marginalized groups are included in data collection?
  
  Data preparation:
+ 
  Who is coming up with the data preparation steps, what's their demographic?
+ 
  Are there fair guidelines for preparation that includes all demographics and are they reviewed before they're put out.
 
 Model Development:
+ 
  Are features inclusive or are they tailored toward a certain group of people(white men)?
  Are multiple models tested for overfit/biased data and if so are those models discouraged?
 
 Model evaluation:
+
  Are the data sets balanced and realistic?
+ 
  Do the models catch false positives/negatives and are the results of accuracy, precision, and recall accurate?
 
 Model postprocessing:
+ 
  Is the data representation understandable to the audience?
+
  Do the thresholds align with the desired output of the data(categorical answer)?
 
 Model deployment:
+ 
  Who is the one outputting the data? Are they inclusive of all groups? Is their recall if the finished data set has bias?
+ 
  Are there feedback implementations that flag bias right away?
 
 Can you come up with additional ways to detect and/or mitigate each source of harm?
 
 Data collection:
+ 
  Collect data from diverse groups and inclusive populations that reflect the targeted users.
+
  Allow community input for data collection.
 
 Data Preparation:
  Allow experts to review data, especially for specific data/sensitive features
+ 
  Create a training program for data analysts so they know what to look for and how to act on biases.
 
 Model development:
+ 
  Remove variables that exclude marginalized groups.
+ 
  Review all features for discrimination risks.
 
 Model Evaluation:
+ 
  Include human evaluation methods rather than ML evaluation only.
+ 
  Include specific metrics like fairness and harm reduction.
 
 Model postprocessing:
+ 
  Document when outputs are modified so that decisions remain interpretable.
+ 
  Test outputs across multiple demographics to ensure fairness holds.
 
 Model Deployment:
+ 
  Ensure whoever is outputting data exemplifies fairness and inclusivity.
+ 
  Update and continuously monitor data outputs if populations increase or decrease.
  
 Can you think of other sources of harm that aren’t captured in this case study?
