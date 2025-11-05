@@ -3,12 +3,12 @@ title: 'Blog 2: Ethical Frameworks'
 date: 2025-09-21
 permalink: /posts/2025/09/blog-post-2/
 tags:
-  - Fallacy
+  - Detection
   - AI
   - School Protection
 ---
 
-AI fails to detect weapons, leading to preventable gun violence in schools.
+In Amanda Musa article "AI technology to detect guns in schools sparks debate" she presents contrasting views from experts. Chad Marlow from the ACLU who claims that AI technology is unreliable and Dave Fraiser from Omnilert who aregues that AI can help detect weapons in schools and mitigate harm. 
 
 **News Article:**  
 [This AI technology was supposed to detect guns in school. Here’s what happened outside Nashville](https://www.cnn.com/2025/02/01/us/ai-gun-detection-software-antioch-school/index.html)
@@ -25,14 +25,13 @@ C: Therefore, many factors lead to school shootings and AI can be used to mitiga
 
 Rebutal
 
-P1 Challenge: Although AI is assisting police departments and school systems with gun detection, there are kinks in AI and software that have failed and led to school shootings being worse than they should have been.
+P1 Challenge: While AI is being used to detect harm, recent results show it is often innacurate and unreliable.
 
-P2 Challenge: AI isn't meant to stop school shootings it is used to mitigate the damage that can occur by lack of response time
-from authorities and school officials.
+P2 Challenge: The idea that gun harm is almost impossible to stop, there are ther ways to mitigate school shooting. Imporved mental health resources and greater school security can prevent such harms as well.
 
-P3 Challenge: Surveillance detection is only possible if weapons are in clear view.
+P3 Challenge: Depending on visibility will limit AI's capabilities. Poor camera angles or concealed weapons can limit the systems usefulness during an imoirtant matter. 
 
-P4 Challenge: With all technology and systems there will be imperfections.
+P4 Challenge: Tools that are unreliable shouldn't be used in high stakes situations. Flase positives lead to time wasted that could be used for saving lives or deesculating situations.
 
 R: The use of AI has many holes that don't fulfill the claims that software experts assure to the public and authorities.
 
