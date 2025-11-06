@@ -2,4 +2,4 @@
 title: "Citations"
 layout: default
 ---
-Drop spot for citations used.
+https://link.springer.com/article/10.1007/s10899-025-10391-1
