@@ -12,6 +12,8 @@ This case study explores the algorthmic mechanisms deployed by sports betting pl
 
 ## Requirements
 
+To continue reading more, below are links that take you to more links tailored to what you want to read about!
+
 [Go to actvity page](activity)
 
 
