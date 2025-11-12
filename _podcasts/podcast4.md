@@ -1,7 +1,7 @@
 ---
 title: "Podcast 4 ft.Tony Smith"
 collection: podcasts
-permalink: /podcasts/podcast3
+permalink: /podcasts/podcast4
 excerpt: "Podcast 3 featuring Tony Smith: Black Mirror Episode"
 date: 2025-11-12
 audio: ethics_fall2025/files/podcast4_ethics_kelijah_tony.mp3
