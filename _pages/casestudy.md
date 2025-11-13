@@ -16,7 +16,7 @@ To continue reading more, below are links that take you to tailored pages about 
 [Go to actvity page](activity)
 
 
-## stakeholders 
+## Stakeholders 
 
 [Go to stakeholder page](stakeholder1)
 
@@ -27,7 +27,7 @@ To continue reading more, below are links that take you to tailored pages about 
 
 ## Body articles
 
-## conclusion 
+## Conclusion 
 
 ## discussion questions
 
