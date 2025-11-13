@@ -18,9 +18,9 @@ To continue reading more, below are links that take you to tailored pages about 
 
 ## Stakeholders 
 
-[Go to stakeholder page](stakeholder1)
+[Go to stakeholder page 1](stakeholder1)
 
-[Go to stakeholder page](stakeholder2)
+[Go to stakeholder page 2](stakeholder2)
 
 ## Citations
 [Go to citations page](citations)
