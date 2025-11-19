@@ -11,6 +11,7 @@ tags:
 [ARTificial: Why Copyright Is Not the Right Policy Tool to Deal with Generative AI](https://yalelawjournal.org/forum/artificial-why-copyright-is-not-the-right-policy-tool-to-deal-with-generative-ai)
 
 Brief Summary
+
 Rapid Advancement of GAI raise complex and ethical issues reagrding originality. This article dives into the philsophical, legal, and practical dimensions of copyright challenges and who or what should be compnesated for their work.
 
 Discussion Questions:
@@ -32,7 +33,7 @@ Should we distinguish between autonomous and assisted AI creations? Can AI be as
 I believe that we shouldn't distinguish between autonomous and assisted AI creations because if we look at the original development of LLM's it traces back to a human developing these models. If developers see that models are becoming overly autonomous, then they can limit the models' abilities. I think that AI can't be assigned as an author. If I prompt AI to create an original poem from scratch, I believe that it will search for poems on the internet and call it original even though it generated ideas based on others' work, and it doesn't have to tell the user that it looked up other materials to create its own idea. So, there is a grey area with this question. Just like humans research material and create their own ideas from that material, AI does the same. The line should be drawn where you can see exact resemblance in others' work to the outputs that AIs are giving users. Assigning copyright to AI works would 100% create an imbalance in the public domain because companies with powerful AI systems can generate work and copyright it faster than companies or creators with limited AI systems. Also, new copyrighted works would be coming out daily, and there would be an oversaturation of "original work" drowning out the human aspect of originality.
 
 My question:
-Should creators have a right to opt in or out of having their work used for model training. What mechansisms can be implimented to make sure this would be practical. 
+Should creators have a right to opt in or out of having their work used for model training? What mechansisms can be implimented to make sure this would be practical? 
 
 I chose this question as the article states the troubles of litigation. It is expensive, time consuming, and complex. There should be a website or app that allows you to upload your work to a safe space where others can view it but there is some sort of firewall or paywall blocking GAI system access to ensure protection of work.
 
