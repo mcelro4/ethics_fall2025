@@ -1,7 +1,10 @@
 ---
 title: "Activity"
 layout: default
-video: ethics_fall2025/files/ScreenRecording.mp4
+<video width="100%" controls>
+  <source src="/files/screenreccording.mp4" type="video/mp4">
+</video>
+
 ---
 For this activity I will have you take a look at a couple of videos taken on my phone. What you will have are live odds of sports games. Odds change based on the way the game is flowing. For example: Sports like basketball, tennis, etc. are fast paced so the odds change faster. This is on purpose as it draws betters in and once a spread, moneyline, or total score changes to something appealing to the sports gambler they tend to place their bets.
 
