@@ -1,7 +1,7 @@
 ---
 title: 'Info Blog 2: ARTificial: Why Copyright Is Not the Right Policy Tool to Deal with Generative AI'
 date: 2025-11-18
-permalink: /posts/2025/10/Info Copyright-blog-post-2/
+permalink: /posts/2025/11/Info Copyright-blog-post-2/
 tags:
   - Copyright
   - GAI
