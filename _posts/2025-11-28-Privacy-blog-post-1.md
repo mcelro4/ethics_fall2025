@@ -20,7 +20,6 @@ Propose approaches for informing users of the existence of remnant data on their
 
 Since modern storage systems store 8-bit bytes rather than 7-bit characters and a separate check bit it is harder to completely delete photos, files, and other images that you may download or save. A proposed solution that I have for informing users of the existence of remnant data on their system is notifying users when their information or photos haven't been deleted fully. Giving a step by step process on how to thoroughly delete files or images for good can protect users' sensitive information. Another solution would consist of implementing a pop up that notifies users when their information hasn't been fully deleted or if a website or company uses a backup system to store deleted files/images. This will allow users to pick and choose what they want to save or download so that they can be protected from organizations that keep sensitive information in a cloud.
 
-
 Compare the advantages of deleting information with information permanence.
 
 The advantages of deleting information:
