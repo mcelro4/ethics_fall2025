@@ -1,5 +1,5 @@
 ---
-title: 'Privacy Blog 1: Complete Delete: In Practice, Clicking Delete Rarely Deletes. Should it?’
+title: 'Privacy Blog 1: Complete Delete: In Practice, Clicking Delete Rarely Deletes. Should it'
 date: 2025-11-28
 permalink: /posts/2025/11/Privacy-blog-post-1/
 tags:
