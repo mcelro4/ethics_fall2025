@@ -12,14 +12,11 @@ This case study explores the algorthmic mechanisms deployed by sports betting pl
 
 To continue reading more, below are links that take you to tailored pages about what you want to read.
 
-## Citations
-[Go to citations page](citations)
-
 ## Content
 [Click here to read](content)
-
-To continue reading more, below are links that take you to tailored pages about what you want to read.
 
 ## Activity
 [Go to actvity page](activity)
 
+## Citations
+[Go to citations page](citations)v

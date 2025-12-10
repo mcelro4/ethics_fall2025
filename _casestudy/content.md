@@ -1,3 +1,7 @@
+---
+title: "Content"
+layout: default
+---
 Developers 
 
 // info from articles
