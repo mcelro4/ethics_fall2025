@@ -14,7 +14,7 @@ MoneyLine: This just means a gambler picks who they think will win. If a gambler
 
 Over/Under: This is a prediction based on the total score of the game between two teams but in single player sports this could be different. An over/under could be games played in a sport like tennis or ping pong.
 
-Below is a video of different online betting lines. Take a look!
+Below is a video of different live online betting lines. Take a look!
 
 
 
