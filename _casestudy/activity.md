@@ -20,5 +20,8 @@ Below is a video of different live online betting lines. Take a look!
   <source src="https://mcelro4.github.io/ethics_fall2025/files/ScreenRecording.mp4" type="video/mp4">
 </video>
 
+<video controls width="300">
+  <source src="https://mcelro4.github.io/ethics_fall2025/files/Screenrecording2.mp4" type="video/mp4">
+</video>
 
 
