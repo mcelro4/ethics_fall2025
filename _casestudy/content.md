@@ -2,7 +2,7 @@
 title: "Content"
 layout: default
 ---
-    **Learning Objective:**
+**Learning Objective:**
 
 -   Grasp the concept of algorithmic persuasion in Live sports betting 
 -   Evaluate the role of data driven systems in shaping user decision making and leading to compulsive or high risk betting.
@@ -16,7 +16,7 @@ layout: default
 
     Since the 2020 COVID pandemic, online sports betting has grown tremendously. Algorithmic Persuasion in live sports betting has grasped the sports community in ways that are impacting entertainment forever. Behind the scenes of live sports betting beholds invisible AI enabled personalization on gaming sites that can affect users experience. There are different algorithms that can manipulate users to continue betting.These algorithms can detect that users are about to log off betting platforms and present bonus offers. The communication of the offer can be received in different ways like “personalized messages, free credits, or limited-time promotions, which provide a monetary incentive for users to return to the platform” says (pmc.ncbi.nlm.nih.gov). Continuous tracking of user data allows systems to read users behavior and emotions, in which algorithms influence decisions that lead to more money being spent with the idea that losses can be made up in short periods of time. This case study will continue to explore the unseen role that algorithmic behavior and design behind live sports betting and the impact it has on users ethically and scientifically. 
 
-
+    **The role of Data-Driven Systems in Shaping User Decision Making**
 
 
 
