@@ -2,6 +2,19 @@
 title: "Content"
 layout: default
 ---
+Learning Objective:
+
+- Grasp the concept of algorithmic persuasion in Live sports betting 
+- Evaluate the role of data driven systems in shaping user decision making and leading to compulsive or high risk betting.
+- Analyze how interface design and behavioral techniques are used to encourage continued betting engagement during live sporting events.
+- Assess the ethical implications of algorithmic persuasion in online gambling.
+- Propose strategies for improving transparency, accountability, and ethical design in algorithmic sports betting systems. 
+
+
+
+
+
+
 Developers 
 
 // info from articles
