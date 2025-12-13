@@ -20,10 +20,18 @@ Below is a video of different live online betting lines. Take a look!
   <source src="https://mcelro4.github.io/ethics_fall2025/files/ScreenRecording.mp4" type="video/mp4">
 </video>
 
-<video controls width="300">
+<video controls width="325">
   <source src="https://mcelro4.github.io/ethics_fall2025/files/ScreenRecording2.mp4" type="video/mp4">
 </video>
 
-<video controls width="300">
+<video controls width="325">
   <source src="https://mcelro4.github.io/ethics_fall2025/files/ScreenRecording3.mp4" type="video/mp4">
 </video>
+
+<video controls width="325">
+  <source src="https://mcelro4.github.io/ethics_fall2025/files/ScreenRecording4.mp4" type="video/mp4">
+</video>
+
+Discussion Questions:
+
+Looking at the videos, One is an example of how during a fast paced game like basketball, algorithms play a role. more rapidly in changing live betting odds. Can you determine what the other sports are based on how often the betting lines change?
