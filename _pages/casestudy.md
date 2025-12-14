@@ -18,7 +18,9 @@ To continue reading more, below are links that take you to tailored pages about 
 ## Stakeholder
 [Stakeholder1](stakeholder1)
 
-[stakeholder2](stakeholder2)
+[Stakeholder2](stakeholder2)
+
+[Stakeholder3](stakeholder3)
 
 ## Activity
 [Go to actvity page](activity)
