@@ -5,5 +5,5 @@ layout: default
 
 **Regulators/Government**
 
-The Governemnt and regualtors must impliment laws that safeguard users, uphold integrity of the sport, and crack down on criminal activty related to sports betting. These regualtions prevent underage gambling, adressing addicitve gambling, and enforce transparency between parties. 
+The Government and regulators must implement laws that safeguard users, uphold integrity of the sport, and crack down on criminal activity related to sports betting. These regulations prevent underage gambling, address addictive gambling, and enforce transparency between parties.
 
