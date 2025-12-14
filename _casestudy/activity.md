@@ -35,3 +35,11 @@ Below are videos of different live betting scenarios. Take a look!
 Discussion Questions:
 
 Looking at the videos, One is an example of how during a fast paced game like basketball, algorithms play a role. more rapidly in changing live betting odds. Can you determine what the other sports are based on how often the betting lines change?
+
+Can you think of new ways that Gambling platforms can implement safeguards for users?
+
+List new stakeholders that you think relate to this topic? What role do they play in algorithmic persuasion in sports betting?
+
+How do real time algorithms and constantly changing odds influence user decision making?
+
+Are current gambling regulations sustainable for AI driven betting platforms?
