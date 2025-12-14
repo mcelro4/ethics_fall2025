@@ -22,7 +22,7 @@ To continue reading more, below are links that take you to tailored pages about 
 
 [Stakeholder3](stakeholder3)
 
-[Stakeholder4] (stakeholder4)
+[Stakeholder4](stakeholder4)
 
 ## Activity
 [Go to actvity page](activity)
