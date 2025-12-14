@@ -36,9 +36,9 @@ layout: default
 
     Sports have evolved into entertainment that you only watch and cheer for. Data analytics, personalization with AI, and interface design have joined together to promote user decision-making. These technologies enhance user engagement but also raise ethical concerns by encouraging impulsive behavior and potential addiction to online gambling through algorithmic persuasion. With the growth of online gambling, transparency, safeguards, responsible gambling, and regulatory monitoring are key to a safe balance between user safety and technological advancements.
 
-    Check out the stakeholders
+Check out the stakeholders
 
-[Click here to read](stakeholder1)
+[Click here to read](stakeholder1.md)
 
 
 
