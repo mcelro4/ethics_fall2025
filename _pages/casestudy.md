@@ -15,6 +15,11 @@ To continue reading more, below are links that take you to tailored pages about 
 ## Content
 [Click here to read](content)
 
+## Stakeholder
+[Stakeholder1](stakeholder1)
+
+[stakeholder2](stakeholder2)
+
 ## Activity
 [Go to actvity page](activity)
 
