@@ -19,4 +19,4 @@ To continue reading more, below are links that take you to tailored pages about 
 [Go to actvity page](activity)
 
 ## Citations
-[Go to citations page](citations)v
+[Go to citations page](citations)
